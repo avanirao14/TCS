@@ -1,0 +1,6 @@
+{
+  "name": "EssayLens: AI Essay Feedback Coach",
+  "description": "Automated pedagogical essay feedback generator powered by multi-agent Gemini analysis, interactive argument mapping, inline highlighting, and Socratic coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
